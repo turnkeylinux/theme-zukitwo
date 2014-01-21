@@ -6,7 +6,7 @@ Standards-Version: 3.9.3
 
 Package: theme-zukitwo
 Architecture: any
-Depends: gtk2-engines-murrine (>= 0.98.1.1), gtk2-engines-pixbuf, gtk3-engines-unico (>= 1.0.2), libgtk-3-0 (>= 3.4), libgtk-3-0 (<< 3.6), ${misc:Depends}, ${shlibs:Depends}
+Depends: gnome-themes-standard, gtk2-engines-murrine (>= 0.98.1.1), gtk2-engines-pixbuf, gtk3-engines-unico (>= 1.0.2), libgtk-3-0 (>= 3.4), libgtk-3-0 (<< 3.6), ${misc:Depends}, ${shlibs:Depends}
 Recommends: gnome-tweak-tool
 Description: theme for GTK2, GTK3, GNOME Shell, Metacity, Unity and XFWM4
  Zukitwo is an attractive theme for GTK2, GTK3, GNOME Shell, Metacity, Unity
